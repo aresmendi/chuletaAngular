@@ -240,9 +240,3 @@ export class MayusculaPipe implements PipeTransform {
     return value.toUpperCase();
   }
 }
-```
-
----
-
-🎉 ¡Listo! Ya tienes tu resumen impreso de Angular v20.
-
